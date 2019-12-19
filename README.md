@@ -8,8 +8,7 @@ This is a simple MVC Node.js app with multi authentication and authorization, us
 git clone https://github.com/likewagon/nebm.git
 cd nebm/
 npm install
-mv config.example.js config.js
-node app.js*
+npm start
 ```
 
 Then visit [http://localhost:3000/](http://localhost:3000/).
